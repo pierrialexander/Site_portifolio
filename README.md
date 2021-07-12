@@ -1,6 +1,6 @@
 # portifolio
 
-Portfolio desenvolvido com CSS puro, javascript puro. Tratase de um modelo de site para apresentação de portifolio de desenvolvedor. Apenas modelo sem conteúdo real apenas para modelo. Contem as mais variadas tecnicas, Flex Box, Grid Layout, Interatividade, Animações, etc.
+Portfolio desenvolvido com CSS puro, javascript puro. Tratase de um modelo de site para apresentação de portifolio de desenvolvedor. Sem conteúdo real, apenas para modelo. Contém, flex Box, grid Layout, animação de menus, interatividade, criador de orçamento, divido em Categorias, etc.
 
 ## tarefas
 
